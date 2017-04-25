@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+	g-hd .tips { top: 41px; + line-height: 37px; + top: 31px }
+	.kubi-num p span { + vertical-align: middle }
+	.kubi-num { + padding-bottom: 9px }
+	.iniframe {width: 100%;}
